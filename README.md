@@ -172,6 +172,32 @@ This project can be used for:
 
 ---
 
+
+---
+
+## Contributing
+
+Contributions are welcome! 🚀
+
+If you would like to improve this project, feel free to **fork the repository**, make your changes, and submit a **Pull Request**.  
+Bug fixes, feature improvements, and documentation updates are always appreciated.
+
+Steps to contribute:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a Pull Request
+
+---
+
+## Support the Project
+
+If you found this project helpful or interesting, please consider **giving it a ⭐ on GitHub**.  
+It helps the project gain visibility and motivates further development.
+
+---
+
 # License
 
 This project is released under the **MIT License** and is intended for **educational and experimental purposes**.
