@@ -55,9 +55,7 @@ Stable_diffusion_image_generation
 ├── README.md
 │
 └── examples
-    ├── cyberpunk-city.png
-    ├── anime-cafe.png
-    └── sports-car.png
+    ├── Car_Image.png
 ```
 
 ---
