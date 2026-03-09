@@ -155,6 +155,7 @@ Planned features for future versions:
 - Add **prompt enhancement using LLMs**
 - Create an **image gallery viewer**
 - Allow **image size and style customization**
+- Automatic watermarking of generated images.
 
 ---
 
