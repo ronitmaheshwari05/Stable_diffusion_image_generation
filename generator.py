@@ -35,7 +35,7 @@ payload = {
     "steps": 30
 }
 
-print("🚀 Generating image...")
+print(" Generating image...")
 
 response = requests.post(url, headers=headers, json=payload)
 
