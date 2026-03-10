@@ -172,7 +172,6 @@ This project can be used for:
 ---
 
 
----
 
 ## Contributing
 
