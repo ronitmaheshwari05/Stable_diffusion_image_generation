@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![AI](https://img.shields.io/badge/AI-Stable%20Diffusion-orange)
 ![API](https://img.shields.io/badge/API-NVIDIA%20AI-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 A lightweight **Python command-line tool** that generates high-quality AI images from natural language prompts using **Stable Diffusion via NVIDIA AI API**.
@@ -196,9 +195,6 @@ It helps the project gain visibility and motivates further development.
 
 ---
 
-# License
-
-This project is released under the **MIT License** and is intended for **educational and experimental purposes**.
 
 ---
 
