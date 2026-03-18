@@ -52,7 +52,6 @@ Stable_diffusion_image_generation
 ├── .env.example
 ├── .gitignore
 ├── README.md
-│
 └── examples
     ├── Car_Image.png
 ```
